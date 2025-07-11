@@ -4,7 +4,9 @@
 
 The idea for AidMap came from witnessing the difficulties nonprofit organizations face in coordinating emergency aid during crises. During natural disasters and humanitarian emergencies, we observed how lack of real-time communication and visibility often leads to critical delays in delivering life-saving resources. Stories of duplicate aid deliveries to some areas while others remained underserved, along with the frustration of volunteers unable to find where help was most needed, inspired us to create a solution that bridges these coordination gaps and helps save lives through improved collaboration and transparency.
 
-## What it does
+## What it does 
+
+Live Demo : https://aidmap-helper.vercel.app
 
 AidMap is a comprehensive real-time emergency aid coordination platform designed for the entire humanitarian response ecosystem. It serves multiple stakeholders including NGOs, volunteers, crisis coordinators, and affected communities by providing:
 
